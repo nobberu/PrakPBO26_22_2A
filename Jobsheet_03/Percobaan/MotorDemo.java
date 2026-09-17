@@ -7,16 +7,16 @@ public class MotorDemo {
 
         motor.nyalakanMesin();
         motor.printStatus();
-        
+
         motor.tambahKecepatan();
         motor.printStatus();
-        
+
         motor.tambahKecepatan();
         motor.printStatus();
-        
+
         motor.tambahKecepatan();
         motor.printStatus();
-        
+
         motor.matikanMesin();
         motor.printStatus();
     }
